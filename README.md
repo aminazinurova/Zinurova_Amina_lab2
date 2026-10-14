@@ -142,6 +142,9 @@
 
 **Демонстрация:** создаются шесть городов A, B, C, D, E, F и связи между ними согласно схеме задания.
 
+<img width="335" height="217" alt="image" src="https://github.com/user-attachments/assets/0a0e8420-8735-4cff-b1c6-9fbc93c82a00" />
+
+
 <img width="206" height="201" alt="image" src="https://github.com/user-attachments/assets/0c3b61c9-6c64-438b-abd3-bb26ac56d1f1" />
 
 
