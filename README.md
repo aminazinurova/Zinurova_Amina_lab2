@@ -49,7 +49,6 @@
 
 <img width="417" height="451" alt="image" src="https://github.com/user-attachments/assets/c5045450-3e4a-400d-afc6-6b6e3a15229a" />
 
-
 ## Задание 2.2. Человек с именем
 
 ### Класс `Human`
@@ -72,7 +71,6 @@
 **Перегрузка `ToString`:** возвращает строку вида `"Имя, рост: N"`. Имя — из объекта `Name`, рост — число.
 
 <img width="490" height="260" alt="image" src="https://github.com/user-attachments/assets/48b1007f-d245-4ef9-8106-38e5c66ed57e" />
-
 
 ## Задание 2.3. Человек с родителем
 
