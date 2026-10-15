@@ -257,6 +257,10 @@
 
 <img width="470" height="293" alt="image" src="https://github.com/user-attachments/assets/4545ed87-aa78-407e-b427-8ceb05d942e7" />
 
+**Тест 2 — создание кота и мяуканье (корректный ввод).**
+Имя кота: `Барсик`. Текстовое представление: `кот: Барсик`.
+Мяукаем 1 раз: `Барсик: мяу!`.
+Сколько раз мяукать? `3`. Вывод: `Барсик: мяу-мяу-мяу!`.
 
 <img width="282" height="292" alt="image" src="https://github.com/user-attachments/assets/32dd4e8b-7e91-440f-9532-3a9fe9065d16" />
 
